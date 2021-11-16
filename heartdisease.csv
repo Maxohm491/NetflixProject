@@ -1,5 +1,5 @@
 age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,sick
-63,1,3,145,233,1,0,150,0,2.3,0,0,1,FALSE
+63,1,3,145,233,1,0,150,1,2.3,0,0,1,FALSE
 37,1,2,130,250,0,1,187,0,3.5,0,0,2,FALSE
 41,0,1,130,204,0,0,172,0,1.4,2,0,2,FALSE
 56,1,1,120,236,0,1,178,0,0.8,2,0,2,FALSE
